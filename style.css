@@ -1,0 +1,84 @@
+/* Universal Selector start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table ,tr td,th{
+    /* border: 1px solid black; */
+    /* border-collapse: collapse; */
+    text-align: center;
+}
+.main-table tr td {
+    width: 90px;
+}
+/* Universal Selector end */
+.container{
+    width: 95%;
+    border: 1px solid black;
+    margin: 20px auto;
+    margin-bottom: 50px ;
+}
+.footer{
+    margin: 0px 10px 10px 0px ;
+    text-align: right;
+}
+.heading{
+    font-size: 80px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.border{
+    border: 1px solid #E05625;
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+}
+.main-table {
+    width: 95%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.hydro{
+    background:#2AAAE1;
+}
+.hel{
+    background:#FFAB40;
+}
+.lit{
+    background:#FCEC24;
+}
+.ber{
+    background:#B8A388;
+}
+.bor{
+    background:#E1CDD8;
+}
+.car{
+    background:#2DA9DF;
+}
+.flu{
+    background:#01FFFF;
+}
+.alu{
+    background:#CCCCCC;
+}
+.sca{
+    background:#BDD31A;
+}
+.meit{
+    background:#F2F2F2;
+}
+.lant{
+    background:#686BAA;
+}
+.acti{
+    background:#E05625;
+}
+.text-rotate{
+ transform: rotate(270deg);
+}
+.main-th-head tr td {
+    width: 60px;
+}
+
